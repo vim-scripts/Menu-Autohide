@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1058
+
+This plugin hides the GUI menu bar when the window is reduced to just a few lines and shows it again when the window is made larger.
+
+This behavior can significantly save on screen space when you're in the habit of temporarily collecting random information in a new vim which then gets stuffed into a corner of the screen.
+
+
